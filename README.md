@@ -6,3 +6,7 @@ Creational design patterns are concerned with object creation mechanisms. They p
 - Singleton: Aims to make object creation durable as only one instance is available using this pattern.
 - Prototype: Aims to make object creation memory efficient when creating one could be time consuming, it ensures object creation of same instance is more convenient with the help of cloning.
 - Factory: Aims to decouple the creation to concrete classes, only knows about some parameters and from which specific objects are being created.
+
+### Structural
+Structural design patterns focus on how classes and objects are composed to form larger structures. The benefit is to organize and manipulate these structures in a flexible and efficient way.
+- Adapter: Enables compatibility between classes with incompatible interfaces by introducing an adapter class that acts as a translator.
