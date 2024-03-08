@@ -1,3 +1,5 @@
+package factory.abstract_factory;
+
 public interface Gate {
-    Gate createGate();
+    String getDescription();
 }

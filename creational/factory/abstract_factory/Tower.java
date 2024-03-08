@@ -1,3 +1,5 @@
+package factory.abstract_factory;
+
 public interface Tower {
-    Tower createTower();
+    String getDescription();
 }
