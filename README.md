@@ -12,3 +12,5 @@ Structural design patterns focus on how classes and objects are composed to form
 - Adapter: Enables compatibility between classes with incompatible interfaces by introducing an adapter class that acts as a translator.
 - Bridge:  Decouples an abstraction from its implementation, and allows you to change both the abstraction and the implementation independently without affecting each other.
 - Composite: Treats a hierarchy of objects like a single object, same operations can be applied to individual objects or the entire hierarchy.
+- Decorator: Allows you to add new functionalities to an object dynamically at runtime. It achieves this by wrapping the original object with a decorator object that provides additional behavior.
+- Facade: Provides a simplified interface to a complex system. It hides the underlying complexity of multiple classes and methods by creating a single facade class. 
